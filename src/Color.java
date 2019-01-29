@@ -1,4 +1,5 @@
 //One error Rule 1
+// https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88487858
 public class Color {
     int r;
     int g;
